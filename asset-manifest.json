@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/innomatics-assignment7/static/css/main.9b22d432.css",
+    "main.js": "/innomatics-assignment7/static/js/main.ab92af47.js",
+    "static/media/music-banner.jpg": "/innomatics-assignment7/static/media/music-banner.2297a723b38c50627741.jpg",
+    "static/media/music-about.jpg": "/innomatics-assignment7/static/media/music-about.3db8e6bba19e1c0874bb.jpg",
+    "index.html": "/innomatics-assignment7/index.html",
+    "main.9b22d432.css.map": "/innomatics-assignment7/static/css/main.9b22d432.css.map",
+    "main.ab92af47.js.map": "/innomatics-assignment7/static/js/main.ab92af47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b22d432.css",
+    "static/js/main.ab92af47.js"
+  ]
+}
